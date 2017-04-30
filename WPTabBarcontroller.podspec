@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name             = 'WPTabBarcontroller'
-  s.version          = '1.0'
+  s.version          = '1.0.1'
   s.summary          = 'WPTabBarcontroller'
-  s.description      = 'WPTabBarcontroller'
+  s.description      = 'a TabBarcontroller using vertical menu'
 
   s.homepage         = 'https://github.com/elementuse/WPTabBarcontroller'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
